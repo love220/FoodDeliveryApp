@@ -19,7 +19,7 @@ class DeliveryProgressPage extends StatelessWidget {
     );
   }
 
-  // custom bottom  nav bar ---- message /call delivery driver
+  // custom bottom  nav bar ---- message /call delivery driver button
 
   Widget _buildBottomNavBar(BuildContext context) {
     return Container(
